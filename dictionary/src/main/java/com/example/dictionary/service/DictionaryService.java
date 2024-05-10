@@ -80,4 +80,7 @@ public class DictionaryService {
 
     }
 
+    public List<Entry> getWordsEndingWith(String value) {
+        return null;
+    }
 }
